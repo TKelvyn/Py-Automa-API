@@ -16,3 +16,5 @@ Ambos os arquivos possuem um código comentado, o que permite uma fácil compree
 
 Personalização
 Este projeto foi desenvolvido em Python e possui um código fonte de fácil compreensão, o que permite a sua personalização de acordo com as necessidades do usuário. É possível editar os arquivos api_to_excel.py e excel_to_api.py para incluir novas funcionalidades ou modificar as existentes. Além disso, também é possível personalizar a estrutura da API utilizada, adaptando-a para a sua própria aplicação.
+
+PS: Realizei alguas atualizações para ganho de desempenho e economia de recursos, utilizando multitrheads.
